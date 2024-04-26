@@ -10,11 +10,11 @@ Javascript - The DOM - Debugging - Mini website skills project
 
 JAVASCRIPT COURSE MODULES
 
-Module 1: Intro to JavaScript
-Module 2: Conditional logic and functions
-Module 3: Data and loops
-Module 4: Websites: DOM Part 1
-Module 5: Websites: DOM Part 2
-Module 6: Begin project
-Module 7: Project work
-Module 8: Project presentations & feedback
+- Module 1: Intro to JavaScript
+- Module 2: Conditional logic and functions
+- Module 3: Data and loops
+- Module 4: Websites: DOM Part 1
+- Module 5: Websites: DOM Part 2
+- Module 6: Begin project
+- Module 7: Project work
+- Module 8: Project presentations & feedback
